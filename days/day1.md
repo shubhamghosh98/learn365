@@ -2,9 +2,8 @@
 
 ## IDOR in Google APIS
 
-```
-https://bugreader.com/ahmad_halabi@idor-in-google-apis-194
-```
+
+[IDOR in Google Digital Garage Application](https://bugreader.com/ahmad_halabi@idor-in-google-apis-194)
 
 # 2FA Bypass Techniques
 

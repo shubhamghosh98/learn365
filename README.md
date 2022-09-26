@@ -5,4 +5,4 @@ Follow me on Twitter for Regular Updates: [Shubham Ghosh](https://twitter.com/cy
 ___
 Day | Topic
 --- | ---
-**1** |  [<ul><li>[IDOR In google APIS writeup](/days/day1.md)</li><li>[2FA Bypass techniques](/days/day1.md)</li>]
+**1** |  <ul><li>[IDOR In google APIS writeup](/days/day1.md)</li><li>[2FA Bypass techniques](/days/day1.md)</li>
