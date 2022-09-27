@@ -6,3 +6,4 @@ ___
 Day | Topic
 --- | ---
 **1** |  <ul><li>[IDOR In google APIS writeup](/days/day1.md)</li><li>[2FA Bypass techniques](/days/day1.md)</li>
+**2** |  <ul><li>[Second Order IDOR Attacks](/days/day2.md)</li><li>[HTTP Request Smuggling](/days/day2.md)</li>
